@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(0, 183, 255);
+}
+
+#id_title,
+#id_subtitle,
+#id_body {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
